@@ -2,7 +2,7 @@
 
 This simple StatEngine application demonstrates how to utilize protected resources.
 The application first fetches the list of Fire Departments that have installed the application.
-Then every 5 seconds, it prints the each Fire Departments current time and shift.
+Then every 5 seconds, it prints each Fire Departments current time and shift.
 
 # Running
 ```
