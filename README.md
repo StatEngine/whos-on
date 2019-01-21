@@ -7,7 +7,7 @@ Then every 5 seconds, it prints the each Fire Departments current time and shift
 # Running
 ```
 npm i
-npm run start
+CLIENT_ID=<client id> CLIENT_SECRET=<client secret> API_DOMAIN=statengine.io npm run start
 ```
 
 # Example Output
